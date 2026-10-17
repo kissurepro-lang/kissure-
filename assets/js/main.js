@@ -4,7 +4,7 @@
   "use strict";
 
   // ---- TODO: set your real contact details before launch ----
-  var CONTACT_EMAIL = "hello@example.com"; // TODO: replace with your business email
+  var CONTACT_EMAIL = "kissurepor@gmail.com";
   // ------------------------------------------------------------
 
   // Footer year

@@ -26,8 +26,8 @@ cd kissure-site && python3 -m http.server 8000
 
 ## Before launch — TODO
 
-- [ ] `assets/js/main.js`: set `CONTACT_EMAIL` to the real business inbox
-- [ ] Contact section: add the real WhatsApp link (replace the "coming soon" note)
+- [x] `assets/js/main.js`: contact email set to kissurepor@gmail.com
+- [x] Contact section: WhatsApp link added (https://wa.me/8613533005356)
 - [ ] Replace the `K` brand mark with the real KISSURE logo file
 - [ ] Add product photos / shade charts to the product cards
 - [ ] Favicon (`favicon.ico` / `favicon.svg`)
