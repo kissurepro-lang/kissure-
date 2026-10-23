@@ -4,7 +4,7 @@
   "use strict";
 
   // ---- TODO: set your real contact details before launch ----
-  var CONTACT_EMAIL = "kissurepor@gmail.com";
+  var CONTACT_EMAIL = "kissurepro@gmail.com";
   // ------------------------------------------------------------
 
   // Footer year
